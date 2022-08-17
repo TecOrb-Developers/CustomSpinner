@@ -3,7 +3,7 @@
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
-[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
 
 # How it works:
@@ -24,7 +24,8 @@
 
 ```groovy
     dependencies {
-        implementation 'com.github.TecOrb-Developers:CustomSpinner:0.1.0'
+         implementation 'com.github.TecOrb-Developers:CustomSpinner:0.0.1'
+
     }
 ```
 
